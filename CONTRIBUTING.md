@@ -1,6 +1,6 @@
 # Contributing to Marketbind
 
-Thank you for considering contributing to Marketbind! We appreciate your help in improving the platform.
+Thank you for considering contributing to MarketBind! We appreciate your help in improving the platform.
 
 ## How to Contribute
 
@@ -59,5 +59,5 @@ By participating in this project, you agree to abide by the [Code of Conduct](CO
 
 ## Thank You!
 
-Thank you for your interest in contributing to Marketbind! Your contributions are valuable and appreciated.
+Thank you for your interest in contributing to MarketBind! Your contributions are valuable and appreciated.
 
