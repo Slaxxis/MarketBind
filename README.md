@@ -1,6 +1,6 @@
 # Marketbind
 
-MarketBind is a web-based market aggregation platform designed to streamline the process of finding used local items. By consolidating listings from popular marketplaces such as Craigslist, Facebook Marketplace, OfferUp, and more, MarketBind offers a standardized interface to discover the best deals in your area. 
+Marketbind is a web-based market aggregation platform designed to streamline the process of finding used local items. By consolidating listings from popular marketplaces such as Craigslist, Facebook Marketplace, OfferUp, and more, Marketbind offers a standardized interface to discover the best deals in your area. 
 
 ## Features
 
@@ -24,8 +24,8 @@ MarketBind is a web-based market aggregation platform designed to streamline the
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Slaxxis/MarketBind.git
-    cd marketbind
+    git clone https://github.com/Slaxxis/Marketbind.git
+    cd Marketbind
     ```
 
 2. Install dependencies:
