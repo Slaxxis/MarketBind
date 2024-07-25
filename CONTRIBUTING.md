@@ -17,7 +17,7 @@ If you encounter any issues or have suggestions for improvements, please open an
    - Clone your forked repository to your local machine:
      ```bash
      git clone https://github.com/Slaxxis/MarketBind.git
-     cd MarketBind
+     cd marketbind
      ```
 
 3. **Create a Branch**:
