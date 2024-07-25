@@ -11,7 +11,6 @@ Marketbind is a web-based market aggregation platform designed to streamline the
 - **Price Comparisons**: Easily compare prices across different platforms to ensure you're getting the best deal.
 - **User Reviews and Ratings**: View and contribute to user ratings and reviews to assess sellers and items.
 - **Notifications and Alerts**: Set up custom alerts for new listings matching your criteria.
-- **Deal Analysis**: Use the advanced comparison system to find the absolute best deal across multiple marketplaces.
 
 ## Getting Started
 
