@@ -1,12 +1,12 @@
 # Contributing to Marketbind
 
-Thank you for considering contributing to MarketBind! We appreciate your help in improving the platform.
+Thank you for considering contributing to Marketbind! We appreciate your help in improving the platform.
 
 ## How to Contribute
 
 ### Reporting Issues
 
-If you encounter any issues or have suggestions for improvements, please open an issue in the [GitHub Issues](https://github.com/Slaxxis/MarketBind/issues) section. Provide as much detail as possible to help us understand and address the issue.
+If you encounter any issues or have suggestions for improvements, please open an issue in the [GitHub Issues](https://github.com/Slaxxis/Marketbind/issues) section. Provide as much detail as possible to help us understand and address the issue.
 
 ### Contributing Code
 
@@ -16,8 +16,8 @@ If you encounter any issues or have suggestions for improvements, please open an
 2. **Clone Your Fork**:
    - Clone your forked repository to your local machine:
      ```bash
-     git clone https://github.com/Slaxxis/MarketBind.git
-     cd marketbind
+     git clone https://github.com/Slaxxis/Marketbind.git
+     cd Marketbind
      ```
 
 3. **Create a Branch**:
@@ -59,5 +59,5 @@ By participating in this project, you agree to abide by the [Code of Conduct](CO
 
 ## Thank You!
 
-Thank you for your interest in contributing to MarketBind! Your contributions are valuable and appreciated.
+Thank you for your interest in contributing to Marketbind! Your contributions are valuable and appreciated.
 
